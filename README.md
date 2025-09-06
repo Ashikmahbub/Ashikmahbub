@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, I'm Ashik Mahbub</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Plant-Shop](https://github.com/Ashikmahbub/plants-shop-client)
+- 🔭 I’m currently working on my organization as a backend developer and system engineer.
 
 - 🌱 I’m currently learning **Dev-ops**
 
-- 💬 Ask me about **Most impressive skill of me is adaptibility with latest technology ,as well as professional environment.**
+- 💬 Ask me about **Most impressive skill of me is adaptibility with latest technology ,as well as in professional environment.**
 
 - 📫 How to reach me **ashikmahbub56@gmail.com**
 
