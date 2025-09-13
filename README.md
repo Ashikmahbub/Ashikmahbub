@@ -11,24 +11,29 @@
 - 📫 Reach me at **ashikmahbub56@gmail.com**  
 
 ---
-
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <a href="www.linkedin.com/in/ashik-mahbub-a691231b1" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="mailto:ashikmahbub56@gmail.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
+  <a href="https://x.com/nemesis_ash77" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" />
   </a>
-  <a href="https://github.com/Ashikmahbub" target="blank">
+  <a href="https://www.facebook.com/ashiqur.rahman.148116/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="30" width="30" />
+  </a>
+  <a href="https://wa.me/01793703156" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="30" />
+  </a>
+  <a href="https://github.com/Ashikmahbub/Ashikmahbub" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
   </a>
 </p>
 
----
+ 
 
 ### 🛠️ Languages and Tools
 <p align="left">
